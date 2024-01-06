@@ -1,7 +1,6 @@
 # European Soccer Database - Data Analysis using SQL
 
 
-![thumbs_b_c_a5317e304e34aea5669e9f9974bdc116](https://github.com/Gokul-Raja84/Data-Analysis-using-SQL/assets/106546785/2118e25e-573e-4f1f-bdba-6c9d92ad3e32)
 
 
 
@@ -48,7 +47,7 @@ The European Soccer Database is a comprehensive dataset tailored for soccer enth
 To replicate or build upon this analysis, follow these steps:
 
 1. **Dataset**: Download the [European Soccer Database](https://www.kaggle.com/datasets/hugomathien/soccer) and set up a local database.
-2. **Clone**: Clone this repository to your local machine using `git clone https://github.com/Gokul-Raja84/Data-Analysis-using-SQL`.
+2. **Clone**: Clone this repository to your local machine.
 3. **Run**: Execute the SQL scripts in the provided Jupyter Notebook or your preferred SQL environment.
 
 ### Contributions and Feedback
